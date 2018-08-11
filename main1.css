@@ -1,0 +1,23 @@
+
+.body {
+	margin : -20px;
+}
+.top {
+	background-color: #5b5bf1;
+}
+.header{
+
+	padding-left: 65%;
+}
+
+.a1{
+
+	background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
