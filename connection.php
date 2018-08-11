@@ -26,5 +26,4 @@ $headers="From ".$myEmail."\r\n";
 $headers1="From ".$d."\r\n";
 mail($d,$sub,$txt,$headers);
 mail($myEmail,$sub,"process it shortly",$headers1);
-mail("+91".$cat,'',$$headers1);
 ?>
