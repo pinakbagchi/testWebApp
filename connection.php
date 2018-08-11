@@ -21,7 +21,7 @@ else{
 $sub="hello world";
 $txt = "thank u for registering 
 we will reach out to u shortly";
-$myEmail = "souravseal.sourav@gmail.com";
+$myEmail = "bagchi.pinak1@gmail.com";
 $headers="From ".$myEmail."\r\n";
 $headers1="From ".$d."\r\n";
 mail($d,$sub,$txt,$headers);
